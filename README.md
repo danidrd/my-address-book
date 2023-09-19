@@ -1,6 +1,6 @@
 Missing Node_modules, can be extracted from package.json and packagelock.json
 
-First run ### `npm install`
+First run `npm install` which install all dependencies and create the Node-Modules folder then use npm start for view the page on localhost:3000
 
 # Getting Started with Create React App
 
