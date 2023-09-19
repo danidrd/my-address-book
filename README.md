@@ -1,3 +1,6 @@
+Missing Node_modules, can be extracted from package.json and packagelock.json
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
